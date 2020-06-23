@@ -1,0 +1,6 @@
+/config/twitterConfig.php
+/cache/
+/vendor/
+/composer.lock
+/composer.phar
+/.idea/

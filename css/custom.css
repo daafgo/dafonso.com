@@ -1,0 +1,62 @@
+.twitterlogo {
+    max-height: 100px
+}
+
+.vancouver-user {
+    color: deepskyblue;
+}
+
+.vancouver-text {
+    color: orange;
+}
+
+.vancouver-created_at {
+    color: rebeccapurple;
+}
+
+.vancouver-consulted_date {
+    color: darkgray;
+}
+
+.vancouver-url {
+    color: forestgreen;
+}
+.backgroundLogo{
+background-image: url("/img/background.webp") ;
+}
+.black-back{
+    background: rgba(0,0,0,0.6);
+}
+.mainContent{
+    min-height: 78vh;
+}
+.jobLogo{
+    max-height: 159px;
+    width: auto!important;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    }
+.social-media-logo{
+    max-width: 40px;
+}
+
+.quote{
+    font-size: 2.5em;
+}
+.studiesLogo{
+    max-height: 159px;
+    width: auto!important;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+/*.card-image{*/
+/*    height: 20vh; !* Your height here *!*/
+/*    overflow: hidden;*/
+/*}*/
+/*.card-title-formacion {*/
+/*    font-size: 22px !important;*/
+/*}*/
